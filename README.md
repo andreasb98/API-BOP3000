@@ -5,4 +5,4 @@ Andreas Bahrawy
 Thomas Slåttedalen  
 
 Utviklet i Microsoft Visual Studio  
-Du trenger Microsoft SQL Server Management Studio 
+Du trenger Microsoft SQL Server Management Studio for å kjøre lokalt
